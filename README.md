@@ -25,14 +25,15 @@
 
 <div align="center">
   <a href="mailto:22it023ashb@ug.cusat.ac.in">
-    <img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/ashbinpa">
+  <img src="https://img.shields.io/badge/Email-22it023ashb@ug.cusat.ac.in-FF6F61?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+  <a href="https://www.linkedin.com/in/ashbin-tech/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/ashbinpa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
+  <a href="https://portfolioashbin.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
   <a href="https://drive.google.com/file/d/1IlmF8I5GVj304kwGd_dSqlDyblverfnD/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-Download-0096C7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
