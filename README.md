@@ -1,46 +1,47 @@
-<h1 align="center">Hi 👋, I'm Ashbin P A</h1>
-<h3 align="center">IT undergrad | Builder of user-focused, impactful software</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4F8EF7&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashbin+P+A;Final-year+IT+Undergrad+@+CUSAT;Builder+of+Impactful+Software!" alt="Typing SVG" />
+</p>
+---
+
+### 🧑‍💻 **About Me**
+
+- 🎓 **Final-year B.Tech IT** @ CUSAT — CGPA: 8.4
+- 🛠️ Building real-world, user-centered software
+- 🏅 **IIT Palakkad Research Fellow** (ERP Systems)
+- 🚀 Driven by hackathons and innovation
+
+---
+
+### 🚀 **Tech Stack**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,typescript,react,nextjs,mysql,supabase,tailwind,git" height="48" />
+</div>
+
+---
+
+
+
+### 📫 **Let's Connect!**
+
+<div align="center">
+  <a href="mailto:22it023ashb@ug.cusat.ac.in">
+    <img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ashbinpa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ashbinpa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1IlmF8I5GVj304kwGd_dSqlDyblverfnD/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-Download-0096C7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</div>
+
+---
 
 <p align="center">
-  <a href="mailto:22it023ashb@ug.cusat.ac.in"><img src="https://img.shields.io/badge/Email-Contact-orange?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/ashbinpa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-AshbinPA-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/ashbinpa"><img src="https://img.shields.io/badge/GitHub-ashbinpa-black?style=flat-square&logo=github"></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0096C7,00B4D8,48CAE4&height=120&section=footer"/><br>
+  <i>“Building software that solves real-world problems and empowers people.”</i>
 </p>
-
----
-
-### 👨‍💻 About Me
-
-- Final-year B.Tech IT, CUSAT (CGPA: 8.4)
-- Building real-world software & leading campus initiatives
-- Summer Research Fellow at IIT Palakkad (ERP Systems)
-
----
-
-### 🛠 Tech Stack
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-
-
----
-
-### 📬 Contact
-
-Feel free to reach out for collaborations, internships, or tech chats!
-
-- 📧 22it023ashb@ug.cusat.ac.in
-- 💼 [LinkedIn](https://linkedin.com/in/ashbinpa)
-
----
-
-### 
-
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1IlmF8I5GVj304kwGd_dSqlDyblverfnD/view?usp=drive_link)
-
----
-
-<p align="center"><i>“Building software that solves real-world problems and empowers people.”</i></p>
