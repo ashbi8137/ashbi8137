@@ -25,21 +25,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
----
-
-### 🚀 Featured Projects
-
-- **ClaimIt:** Real-time lost-and-found, secure & geo-enabled (React Native, Supabase)
-- **CareerBridge:** Job portal with resume parsing, ATS analytics (Next.js, Tailwind)
-- **ICMRBGSD2025:** Mobile-first, accessible academic conference site
-
----
-
-### 🏆 Recent Achievements
-
-- 🥇 1st Place, Hack Europa (AI internship portal)
-- 🥇 1st Place, Hack to the Future (Blockchain for transport)
-- 🥈 2nd Place, Make-a-Ton (Web3 platform)
 
 ---
 
@@ -52,10 +37,8 @@ Feel free to reach out for collaborations, internships, or tech chats!
 
 ---
 
-### 📄 Resume
+### 
 
-📥 [Click here to view/download my resume](https://drive.google.com/file/d/1IlmF8I5GVj304kwGd_dSqlDyblverfnD/view?usp=drive_link)  
-or  
 [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1IlmF8I5GVj304kwGd_dSqlDyblverfnD/view?usp=drive_link)
 
 ---
