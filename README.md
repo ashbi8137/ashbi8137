@@ -13,9 +13,11 @@
 
 ### 🚀 **Tech Stack**
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,typescript,react,nextjs,mysql,supabase,tailwind,git" height="48" />
-</div>
+<p><strong>💻 Languages:</strong></p>
+<img src="https://skillicons.dev/icons?i=cpp,typescript,html,css" height="48" />
+
+<p><strong>⚙️ Frameworks | 🗄️ Databases | 🛠️ Tools:</strong></p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,mysql,supabase,git,vscode,vercel" height="48" />
 
 ---
 
