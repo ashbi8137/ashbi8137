@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4F8EF7&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashbin+P+A;Final-year+IT+Undergrad+@+CUSAT;Builder+of+Impactful+Software!" alt="Typing SVG" />
 </p>
----
 
 ### 🧑‍💻 **About Me**
 
