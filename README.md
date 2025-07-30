@@ -22,7 +22,7 @@
 
 
 ### 📫 **Let's Connect!**
-
+<br>
 <div align="center">
   <a href="mailto:22it023ashb@ug.cusat.ac.in">
   <img src="https://img.shields.io/badge/Email-22it023ashb@ug.cusat.ac.in-FF6F61?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -38,10 +38,8 @@
     <img src="https://img.shields.io/badge/Resume-Download-0096C7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </div>
-
----
-
+<br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0096C7,00B4D8,48CAE4&height=120&section=footer"/><br>
   <i>“Building software that solves real-world problems and empowers people.”</i>
 </p>
+
